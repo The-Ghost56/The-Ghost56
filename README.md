@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+###Actual mente soy un estudiante de progamador web Full Stack,
+Mi objetivo como programador es crear programas que nos hagan la vida más fácil, ¡también de formas que nunca imaginamos! HTML CSS JS react Vue Python Flask SQL
+Ubicación
+Málaga, España
 <!--
 **The-Ghost56/The-Ghost56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
