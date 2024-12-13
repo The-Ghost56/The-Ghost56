@@ -4,7 +4,8 @@ Mi objetivo como programador es crear programas que nos hagan la vida más fáci
 o que nos ayuden en otras tareas u hobbies, 
 ¡también de formas que nunca imaginamos! HTML CSS JS react Vue Python Flask SQL
 
-Ubicación
+Ubicación:
+
 Málaga, España
 <!--
 **The-Ghost56/The-Ghost56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
