@@ -1,9 +1,11 @@
 ## Hi there 👋
-Actual mente soy un estudiante de progamador web Full Stack,
-Mi objetivo como programador es crear programas que nos hagan la vida más fácil,
-o que nos ayuden en otras tareas u hobbies, 
-¡también de formas que nunca imaginamos! HTML CSS JS react Vue Python Flask SQL
 
+- :telescopio: I’m currently working on a new component for an educational app
+- :plántula: I’m currently learning Java and Azure!
+- :bailarines: I’m looking to collaborate on any interesting looking app
+- :cara_pensativa: I’m looking for help with Cloud
+- :bocadillo_de_diálogo: Ask me about anything!
+- :buzón: How to reach me:
 Ubicación:
 
 Málaga, España
