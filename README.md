@@ -1,25 +1,17 @@
 ## Hi there 👋
+- 🔭 I’m currently working on Faccsa
+- 🌱 I’m currently learning HTML, CSS, JavaScript...
+- 👯 I’m looking to collaborate on make new webs and apps, that can make our lives easier.
+- 💬 Ask me about ...
+- 📫 How to reach me:
+- By email: Leivagalvezpedrojsoe@gmail.com
 
-- :telescopio: I’m currently working on a new component for an educational app
-- :plántula: I’m currently learning Java and Azure!
-- :bailarines: I’m looking to collaborate on any interesting looking app
-- :cara_pensativa: I’m looking for help with Cloud
-- :bocadillo_de_diálogo: Ask me about anything!
-- :buzón: How to reach me:
 Ubicación:
 
 Málaga, España
-<!--
+
 **The-Ghost56/The-Ghost56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
